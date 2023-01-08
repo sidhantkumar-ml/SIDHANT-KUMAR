@@ -1,4 +1,7 @@
-![logo](https://github.com/sidhantkumar-ml/SIDHANT-KUMAR/blob/main/welcome%20to%20our.png)
+<p align="center">
+ <img  width="500" height="200"src=https://github.com/sidhantkumar-ml/SIDHANT-KUMAR/blob/main/welcome%20to%20our.png>
+</p>
+
 <h1 align="center">Hi 👋, I'm Sidhant Kumar</h1>
 <h3 align="center">System Engineer</h3>
 
@@ -8,7 +11,7 @@
 
 - 📫 How to reach me **sidhantkr7155054@gmail.com**
 
-- ⚡ Fun fact **Fresher working on legacy technology - MF😎**
+- ⚡ Fun fact **Fresher working on legacy technology - Mainframe😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
